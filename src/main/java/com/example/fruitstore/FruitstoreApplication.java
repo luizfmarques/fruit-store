@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FruitstoreApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FruitstoreApplication.class, args);
 	}
 
